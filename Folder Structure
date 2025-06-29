@@ -1,0 +1,9 @@
+doc-chatbot/
+├── app.py
+├── pdfs/
+│   └── your-pdf.pdf
+├── vectorstore/
+├── templates/
+│   └── index.html
+├── requirements.txt
+└── README.md
